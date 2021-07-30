@@ -1,0 +1,4 @@
+Kernel Method classification using:
+- SVM
+- Perceptron
+- Neural Network
