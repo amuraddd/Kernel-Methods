@@ -152,29 +152,3 @@ print("Kernel Perceptron Training Accuracy: ", kernel_perceptron_accuracy(test_a
 
 print("Test Confusion Matrix")
 print(pd.crosstab(test_predictions_reversed, y_test_reversed))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
